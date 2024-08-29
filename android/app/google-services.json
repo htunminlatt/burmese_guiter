@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917752776985",
+    "project_id": "burmeseguiter",
+    "storage_bucket": "burmeseguiter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917752776985:android:955391f1dc9b9ab86b9d88",
+        "android_client_info": {
+          "package_name": "com.example.burmese_guiter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKnz_50RFn9I-nqvIQimFJCJWF_Chb0KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
